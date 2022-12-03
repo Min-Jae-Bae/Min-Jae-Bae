@@ -44,6 +44,7 @@
   
   <div>
     <a href = "https://github.com/Min-Jae-Bae"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+    <a href = "https://kr.linkedin.com/in/bae-min-jae-437523237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
     <a href = "https://myithistory1.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
     <a href = "https://ginger-puck-b7f.notion.site/Min-Jae-2cca64a9500c423a8e39764bca16304d"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/qoalaswo123@icloud.com-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"/>
