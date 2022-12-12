@@ -1,6 +1,6 @@
 <div align = "center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Min-Jae-Bae%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&text=%20Min-Jae-Bae%20%20&height=200&fontSize=90&fontColor=000000)
   
   ## 🏆 Android Developer
   <pre>
@@ -56,8 +56,8 @@
   <br>
   <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-Jae-Bae&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-Jae-Bae&show_icons=true&theme=great-gatsby)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFD700)
   
 </div>
