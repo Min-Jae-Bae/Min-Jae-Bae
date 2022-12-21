@@ -1,6 +1,10 @@
 <div align = "center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&text=%20Min-Jae-Bae%20%20&height=200&fontSize=90&fontColor=000000)
+ 
+  <br>
+
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMin-Jae-Bae&count_bg=%23FFD700&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
   
   ## 🏆 Android Developer
   <pre>
