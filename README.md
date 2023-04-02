@@ -1,6 +1,6 @@
 <div align = "center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&text=%20Min-Jae-Bae%20%20&height=200&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&text=%Profile%20%20&height=200&fontSize=90&fontColor=000000)
   
   ## 🌱 Projects
 
