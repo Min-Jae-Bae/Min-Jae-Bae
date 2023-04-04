@@ -4,7 +4,7 @@
   
   ## 🌱 Projects
 
-|                        Project                         |               Contest                |       Tech Stack       |Award | Year |
+|                        Project                         |               Discription             |       Tech Stack       |Award | Year |
 | :----------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--:|
 | [옥상녹화 프로젝트 : 루트탑 The Rooftop](https://github.com/Min-Jae-Bae/kotlin-rooftop) | KB 국민은행 소프트웨어 경진대회 |  Android  | 참여  | 2022 |
 
