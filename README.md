@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&text=%Profile%20%20&height=200&fontSize=90&fontColor=000000)
   
-  ## 🌱 Projects
+  ## ⏳ Projects
 
 |                        Project                         |               Discription             |       Tech Stack       |Award | Year |
 | :----------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--:|
@@ -14,7 +14,7 @@
   
 <br><br>
 
-## 🌱 Antecedents
+## ⏳ Antecedents
 - Developer : 옥상녹화 프로젝트 - The Rooftop
 - Pair Programming Study : 짝 프로그래밍 운영
 - 우아한테크코스 5기 개발자 커뮤니티 활동
@@ -24,10 +24,10 @@
 
 <br><br>
   
-  ## 🌱 Service on Market
+  ## ⏳ Service on Market
   <br><br>
 
-  ## :bug: Stats
+  ## ⏳: Stats
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-Jae-Bae&show_icons=true&theme=great-gatsby)
   
